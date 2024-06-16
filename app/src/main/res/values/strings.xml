@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">explicit</string>
+    <string name="button">Button</string>
+    <string name="click">click</string>
+    <string name="imageview">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="imageview2">TODO</string>
+    <string name="surprise">surprise</string>
+</resources>
